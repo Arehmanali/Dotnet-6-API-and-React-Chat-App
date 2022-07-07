@@ -360,6 +360,7 @@
   border-top: 1px solid #32465a;
   border-bottom: 1px solid #32465a;
   font-weight: 300;
+  margin-top: -20px;
 }
 @media screen and (max-width: 735px) {
   #frame #sidepanel #search {
@@ -602,6 +603,7 @@
 }
 #frame .content .contact-profile .social-media {
   float: right;
+  margin: 20px 12px 0 9px;
 }
 #frame .content .contact-profile .social-media i {
   margin-left: 14px;

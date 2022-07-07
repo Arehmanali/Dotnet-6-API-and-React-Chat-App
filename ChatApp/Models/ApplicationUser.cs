@@ -4,5 +4,6 @@ namespace ChatApp.Models
 {
     public class ApplicationUser : IdentityUser
     {
+
     }
 }
